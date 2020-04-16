@@ -5,4 +5,6 @@ A collection for a bunch of basic Unity Projects.
 1. SimulatorTrumpAgainstCOVID19-TEXTGame    
 
 ## Easy Demo
+#### 1.SimulatorTrumpAgainstCOVID19-TEXTGame 
+![project1](img/SimulatorTrump-TextGame.gif)     
 
