@@ -10,4 +10,5 @@ A collection for a bunch of basic Unity Projects.
 ![project1](img/SimulatorTrump-TextGame.gif)     
 
 #### 2. A basic Number Wizard Game in WebGL     
+![project2](img/BasicNumberWizard.gif)       
 
